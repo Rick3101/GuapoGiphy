@@ -13,7 +13,7 @@ if (navigator.serviceWorker){
 }
 
 ///testeee
-
+teste
 // Giphy API object
 var giphy = {
     url: 'https://api.giphy.com/v1/gifs/trending',

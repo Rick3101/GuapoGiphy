@@ -11,7 +11,7 @@ if (navigator.serviceWorker){
 		});
 	}
 }
-
+te
 ///testeee
 teste
 // Giphy API object

@@ -12,6 +12,7 @@ if (navigator.serviceWorker){
 	}
 }
 
+///testeee
 
 // Giphy API object
 var giphy = {
